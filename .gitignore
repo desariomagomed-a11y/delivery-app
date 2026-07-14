@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+.gradletasknamecache
+
+# Android Studio
+.idea/
+*.iml
+*.apk
+*.aar
+*.ap_
+*.dex
+local.properties
+.DS_Store
+
+# Firebase
+google-services.json
+
+# Kotlin
+*.kt.bak
+*.ktm
+*.ktm.postemp
+
+# Misc
+*.jks
+*.keystore
